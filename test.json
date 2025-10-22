@@ -1,0 +1,21 @@
+{
+  "CTk": {
+    "fg_color": ["#2b2b2b", "#2b2b2b"]
+  },
+
+  "CTkLabel": {
+    "text_color": ["#00ff00", "#00ff00"]
+  },
+
+  "CTkButton": {
+    "text_color": ["#00ff00", "#00ff00"]
+  },
+
+  "CTkCheckBox": {
+    "text_color": ["#00ff00", "#00ff00"]
+  },
+
+  "CTkEntry": {
+    "text_color": ["#00ff00", "#00ff00"]
+  }
+}
